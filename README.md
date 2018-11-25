@@ -37,8 +37,8 @@ From now on it is in your **Forked** repo
 
 Include all members of your team for the hack here:
 
-* Arshia Tajlili Moghanjoghi [https://github.com/ATMCASH24] 
 * Abby Mitchell [https://github.com/javabster] 
+* Arshia Tajlili Moghanjoghi [https://github.com/ATMCASH24] 
 * Augusta Senenssie
 * Zeina Gohar
 * Rahul Jayaprabha
