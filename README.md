@@ -67,6 +67,8 @@ The app will partner with charities, universities and other educational organisa
 
 Both employees and employers will be able to provide anonymous feedback about each other, based on a number of factors (such as 'did you feel safe working for this employer' and 'did this employee arrive on time?'). This will add a level of safety and quality assurance for both employees and eployers.
 
+This was our initial solution, however on pitch day we decided that the scale of our problem was too broad, so we decided to pivot. For our mvp, instaed of creating a standalone app which included aspects of a marketplace, skill development and a saftey ratings feature, we decided it would be better to instead create an add-on feature for existing marketplace apps. the add-on feature being primarily focused on getting existing marketplace users to give tips/bonuses to their employees which would be invested in a fund for them to spend on skills advancement courses. The content of this repo and the features outlined below are for the originial concept of a full standalone app, however our final product will likely be pitched with less functionality.
+
 ### App Features (Employee View)
 - Skills centre, where users can view how much tip/bonus money they've saved so far, see recommended courses they can take, and see how much % they have saved towards the total price. Some free courses will also be shown.
 - User profile, where users can add information about the domestic services they wish to offer, pay rate, working times, as well as select preferences for skills areas they would like to develop
