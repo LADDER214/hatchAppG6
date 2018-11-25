@@ -18,7 +18,7 @@ export default class FindEmployees extends React.Component {
           containerStyle = {styles.button}
           onPress={() => this.props.navigation.navigate('EmployeeProfile')}>
           <View style={{display: 'flex', height: 140, width: 120}}>
-          <Image style={styles.profileImage} source={require('./assets/profile1.png')}></Image>
+          <Image style={styles.profileImage} source={require('../../assets/profile1.png')}></Image>
           <Text style={{paddingLeft: 40}}>Priya</Text>
           </View>
           <View style={styles.textContainer}>
@@ -34,7 +34,7 @@ export default class FindEmployees extends React.Component {
           containerStyle={styles.button}
           onPress={() => this.props.navigation.navigate('EmployeeProfile')}>
           <View style={{display: 'flex', height: 140, width: 120}}>
-          <Image style={styles.profileImage} source={require('./assets/profile1.png')}></Image>
+          <Image style={styles.profileImage} source={require('../../assets/profile1.png')}></Image>
           <Text style={{paddingLeft: 40}}>Anika</Text>
           </View>
           <View style={styles.textContainer}>
@@ -50,7 +50,7 @@ export default class FindEmployees extends React.Component {
         containerStyle={styles.button}
           onPress={() => this.props.navigation.navigate('EmployeeProfile')}>
           <View style={{display: 'flex', height: 140, width: 120}}>
-          <Image style={styles.profileImage} source={require('./assets/profile1.png')}></Image>
+          <Image style={styles.profileImage} source={require('../../assets/profile1.png')}></Image>
           <Text style={{paddingLeft: 40}}>Parvati</Text>
           </View>
           <View style={styles.textContainer}>
@@ -66,7 +66,7 @@ export default class FindEmployees extends React.Component {
         style = {{color: 'white', fontSize: 14}}
           onPress={() => this.props.navigation.navigate('EmployeeProfile')}>
           <View style={{display: 'flex', height: 140, width: 120}}>
-          <Image style={styles.profileImage} source={require('./assets/profile1.png')}></Image>
+          <Image style={styles.profileImage} source={require('../../assets/profile1.png')}></Image>
           <Text style={{paddingLeft: 40}}>Diya</Text>
           </View>
           <View style={styles.textContainer}>

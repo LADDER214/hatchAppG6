@@ -13,7 +13,7 @@ export default class EmployeeProfile extends React.Component {
         <ScrollView>
       <View style={styles.container}>
       <View style={{display: 'flex', height: 140, width: 120}}>
-          <Image style={styles.profileImage} source={require('./assets/profile1.png')}></Image>
+          <Image style={styles.profileImage} source={require('../../assets/profile1.png')}></Image>
           <Text style={{paddingLeft: 40}}>Priya</Text>
           </View>
           <View style={styles.textContainer}>
