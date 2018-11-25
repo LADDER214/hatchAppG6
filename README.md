@@ -1,6 +1,6 @@
 # hatch-template-project - LADDERS
 
-In this project we create a safe environment for domestic housework for women who are already working in that area in that area. This app will address the problems regarding the underpayment and the safety of these works. Furthermore it will introduce and provide courses for these women in order to increase their social mobility. 
+This project aims to empower women in urban slums in India. It aims to help improve the lives of Indian domestic workers (of which the majority are women from impoverished backgrounds) by helping them get access to safe, fairly paid work while simultaneously enabling them to gain skills to propel them to a better life in future.
 
 This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
@@ -24,11 +24,11 @@ From now on it is in your **Forked** repo
 
 ### README changes (this file)
 
-- [ ] 5. Change the name at the top of this file on `line 1`
+- [/ ] 5. Change the name at the top of this file on `line 1`
 - [ ] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
 - [ ] 7. Fill in your team members in the **TEAM** section below
-- [ ] 8. Fill in the **PROBLEM AND SOLUTION** section below
-- [ ] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
+- [/ ] 8. Fill in the **PROBLEM AND SOLUTION** section below
+- [ /] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
 - [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
 
 *TIP: drag and drop [images / photos](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/)*
@@ -80,6 +80,8 @@ Both employees and employers will be able to provide anonymous feedback about ea
 - Favourites, where users can view employees that they have 'favourited' so can quickly find them again. This is also where users can view their favourite employees profiles and add a bonus payment that will be put directly into the employees skills fund pot, held within the app.
 - Personal profile page, where users can add their details to be shown to employees, and can view their feedback scores
   
+NOTE TO JUDGES:
+We are really sorry, the pages in this repo are not our best coding work, but is the best we could do given the lack of coding ability in our team and an unprecedented amount of technical issues (I wanted to go home and continue working overnight, however when I got home my I found out the flat wifi was down and I spent the whole evening trying to fix it. And theres only so much coding I can do on my 4G hotspot :'( ).
   
 
 ## Install and run this project
