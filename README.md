@@ -47,6 +47,17 @@ Include all members of your team for the hack here:
 
 ## Problem and Solution
 
+Our target group (i.e. the people we are trying to help): female domestic workers living in urban slums in India
+(This group can be expanded if the project were taken forward and scaled up)
+
+The Problem:
+This group of people we are trying to help face major concerns in their daily work life
+- they are doing undervalued/underpaid work, due the fact that most domestic work is carried out by women and therefore is not considered valuable
+- potentially unsafe situations, where women are going to employers homes to fo housework/collect laundry without knowing much about who is hiring them
+- little to no chance of social mobility, due to lack of access to skills training and/or education
+
+All these concerns are inherently linked to The Problem of gender inequality in areas of poverty in India
+
 ## Install and run this project
 1. Clone this repository onto your machine
 2. In the command line run `expo start`
