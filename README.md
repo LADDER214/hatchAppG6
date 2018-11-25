@@ -8,8 +8,8 @@ This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
 Tick items off as you go along.
 
-- [ ] 1. [Sign up](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a free GitHub account
-- [ ] 2. [Fork](https://help.github.com/articles/fork-a-repo/) this project
+- [X] 1. [Sign up](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a free GitHub account
+- [X] 2. [Fork](https://help.github.com/articles/fork-a-repo/) this project
 - [ ] 3. Add your forked repo from `step 2` to this [project](https://github.com/SheCanCodeHQ/hatchlondon-2017-projects) as a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
 ### Project setup
@@ -26,9 +26,9 @@ From now on it is in your **Forked** repo
 
 - [X] 5. Change the name at the top of this file on `line 1`
 - [X] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
-- [ ] 7. Fill in your team members in the **TEAM** section below
+- [X] 7. Fill in your team members in the **TEAM** section below
 - [X] 8. Fill in the **PROBLEM AND SOLUTION** section below
-- [ /] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
+- [X] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
 - [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
 
 *TIP: drag and drop [images / photos](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/)*
@@ -43,7 +43,7 @@ Include all members of your team for the hack here:
 * Zeina Gohar
 * Rahul Jayaprabha
 * Parham Rakhshanfar
-* 
+* Morvarid Ahmadijah
 
 ## Problem and Solution
 
