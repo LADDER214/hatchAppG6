@@ -50,7 +50,7 @@ Include all members of your team for the hack here:
 Our target group (i.e. the people we are trying to help): female domestic workers living in urban slums in India
 (This group can be expanded if the project were taken forward and scaled up)
 
-# The Problem:
+### The Problem:
 This group of people we are trying to help face major concerns in their daily work life
 - they are doing undervalued/underpaid work, due the fact that most domestic work is carried out by women and therefore is not considered valuable
 - potentially unsafe situations, where women are going to employers homes to fo housework/collect laundry without knowing much about who is hiring them
