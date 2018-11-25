@@ -1,4 +1,4 @@
-# hatch-template-project - LADDER
+# hatch-template-project - LADDERS
 
 In this project we create a safe environment for domestic housework for women who are already working in that area in that area. This app will address the problems regarding the underpayment and the safety of these works. Furthermore it will introduce and provide courses for these women in order to increase their social mobility. 
 
