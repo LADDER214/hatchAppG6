@@ -61,9 +61,17 @@ All these concerns are inherently linked to The Problem of gender inequality in 
 ### The Solution:
 Th LADDERS App
 
-This app is simultaneously a marketplace to source domestic work as well as a resource for finding and funding education/skills upgrading of domestic workers. Domestic workers can use the platform as a way to source work from nearby employers, those employers can then tip or give a bonus to a domestic worker they have employed, which will be put into a fund that the worker put towards paying for an online course or skills exam.
+This app is simultaneously a marketplace to source domestic work as well as a resource for finding and funding education/skills upgrading of domestic workers. Domestic workers can use the platform as a way to source work (short term employment, such as 1 batch of laundry) from nearby employers, those employers can then tip or give a bonus to a domestic worker they have employed, which will be put into a fund that the worker put towards paying for an online course or skills exam.
+
 The app will partner with charities, universities and other educational organisations to provide skills advancement resources at a discounted rate. The app will also provide the employee users with personalised recommendations for courses they can take, based on their current work and future work preferences.
+
 Both employees and employers will be able to provide anonymous feedback about each other, based on a number of factors (such as 'did you feel safe working for this employer' and 'did this employee arrive on time?'). This will add a level of safety and quality assurance for both employees and eployers.
+
+### App Features (Employee View)
+- Skills centre, where users can view how much tip/bonus money they've saved so far, see recommended courses they can take, and see how much % they have saved towards the total price. Some free courses will also be shown.
+- User profile, where users can add information about the domestic services they wish to offer, pay rate, working times, as well as select preferences for skills areas they would like to develop
+- Offers page, where users can view short term employment offers they've received from employers. They can view pending offers (offers made by the employer but not yet accepted by the employee), open offers (offers that have been accepted by the employee but work has not yet been completed) and closed offers (offers the employee has rejected, or work that has been completed and paid for)
+- Conversation page, where users can view message requests from potential employers who wish to discuss details of employment before an offer is formally made
 
 ## Install and run this project
 1. Clone this repository onto your machine
