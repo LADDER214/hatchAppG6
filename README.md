@@ -83,7 +83,7 @@ This was our initial solution, however on pitch day we decided that the scale of
 - Personal profile page, where users can add their details to be shown to employees, and can view their feedback scores
   
 NOTE TO JUDGES:
-We are really sorry, the pages in this repo are not our best coding work, but is the best we could do given the lack of coding ability in our team and an unprecedented amount of technical issues (I wanted to go home and continue working overnight, however when I got home my I found out the flat wifi was down and I spent the whole evening trying to fix it. And theres only so much coding I can do on my 4G hotspot :'( ).
+We are really sorry, the pages in this repo are not our best coding work, but is the best we could do given the lack of coding ability in our team and an unprecedented amount of technical issues (I wanted to go home and continue working overnight, however when I got home my I found out the flat wifi was down and I spent the whole evening trying to fix it. And theres only so much coding I can do on my 4G hotspot :'( ). Please see our trello board for more detailed prototype visuals, which unfortunately we were not able to fully implement.
   
 
 ## Install and run this project
