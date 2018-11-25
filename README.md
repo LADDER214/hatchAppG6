@@ -58,6 +58,13 @@ This group of people we are trying to help face major concerns in their daily wo
 
 All these concerns are inherently linked to The Problem of gender inequality in areas of poverty in India
 
+### The Solution:
+Th LADDERS App
+
+This app is simultaneously a marketplace to source domestic work as well as a resource for finding and funding education/skills upgrading of domestic workers. Domestic workers can use the platform as a way to source work from nearby employers, those employers can then tip or give a bonus to a domestic worker they have employed, which will be put into a fund that the worker put towards paying for an online course or skills exam.
+The app will partner with charities, universities and other educational organisations to provide skills advancement resources at a discounted rate. The app will also provide the employee users with personalised recommendations for courses they can take, based on their current work and future work preferences.
+Both employees and employers will be able to provide anonymous feedback about each other, based on a number of factors (such as 'did you feel safe working for this employer' and 'did this employee arrive on time?'). This will add a level of safety and quality assurance for both employees and eployers.
+
 ## Install and run this project
 1. Clone this repository onto your machine
 2. In the command line run `expo start`
