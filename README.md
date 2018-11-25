@@ -73,6 +73,12 @@ Both employees and employers will be able to provide anonymous feedback about ea
 - Offers page, where users can view short term employment offers they've received from employers. They can view pending offers (offers made by the employer but not yet accepted by the employee), open offers (offers that have been accepted by the employee but work has not yet been completed) and closed offers (offers the employee has rejected, or work that has been completed and paid for)
 - Conversation page, where users can view message requests from potential employers who wish to discuss details of employment before an offer is formally made
 
+### App Features (Employer View)
+- Search, where users can look for nearby domestic workers offering certain services (lanudry, dry-cleaning, cooking, housekeeping)
+- Conversations, where users can contact potential employees to discuss details of potential work (i.e. how much laundry, delicates or not, time of pickup etc.)
+- Offers page, where users can view short term employment offers they've received from employers. They can view pending offers (offers made by the employer but not yet accepted by the employee), open offers (offers that have been accepted by the employee but work has not yet been completed) and closed offers (offers the employee has rejected, or work that has been completed and paid for). On the open offers page is where the employer can 'Pay Employee'. By clicking this button the prearranged payment amount will be transferred directly to the employee's bank account. The employer user will then be prompted to 'Add a tip for <worker name>'s skills fund?'
+- Favourites, where users can view employees that they have 'favourited' so can quickly find them again
+
 ## Install and run this project
 1. Clone this repository onto your machine
 2. In the command line run `expo start`
